@@ -1,0 +1,39 @@
+h1 {
+    background-image: url(file:///C:/Users/shala/OneDrive/Documents/DevProjects/Codecademy/Dasmatos%20Arts%20and%20Crafts/Resources/pattern.webp);
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center; 
+}
+h2.brushes {
+    background-color: mediumspringgreen;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h2.frames {
+    background-color: lightcoral;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}h2.paint {
+    background-color: skyblue;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+
+
+
+
+mark.blue {
+    background: none;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
